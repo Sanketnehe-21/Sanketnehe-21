@@ -45,6 +45,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaizen_sanket/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketnehe21@gmail.com)
 
-
-🚀 **Always open to collaboration & learning new tech!** 😃
 🚀 **Don't Stop Learning** 😃
