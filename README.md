@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sanket Nehe!
 
-💻 **Aspiring Software Engineer | AI Enthusiast | Game & AR/VR Developer | Cloud Practitioner | Android Developer-React Native**  
+💻 **Aspiring Software Engineer | AI Enthusiast | Android Developer-React Native**  
 
 🚀 Passionate about building intelligent applications, immersive gaming experiences, and leveraging cloud & AI technologies to solve real-world problems.  
 
