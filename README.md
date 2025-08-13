@@ -227,7 +227,7 @@ experience:
   mobile_development: "3+ years"
   web_development: "4+ years"
   cloud_architecture: "2+ years"
-  game_development: "2+ years"
+  game_development: "2 years"
   
 specialties:
   - React Native Apps
@@ -238,9 +238,7 @@ specialties:
   
 achievements:
   hackathon_wins: 1
-  npm_packages: 1
-  github_stars: 50+
-  projects_completed: 20+
+  npm_packages: 2
 ```
 
 </td>
@@ -276,14 +274,10 @@ achievements:
 ---
 
 <div align="center">
-  
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee" width="800">
+
   
   ### 💭 Daily Dose of Dev Wisdom
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ### 😂 Because Developers Need Humor Too!
-  <img src="https://random-memer.herokuapp.com/" width="600px"/>
   
   ---
   
