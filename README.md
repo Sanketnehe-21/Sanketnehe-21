@@ -221,16 +221,6 @@ CSS          ████▓░░░░░░░░░░░░░░░░   1
 
 ---
 
-## 🌟 Quick Stats Overview
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanketnehe-21&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="400"/>
-</td>
-<td align="center">
-
 ### 💼 Professional Highlights
 ```yaml
 experience:
