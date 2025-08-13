@@ -32,9 +32,8 @@
 const sanket = {
     pronouns: "He/Him",
     location: "Mumbai, Maharashtra 🇮🇳",
-    currentRole: "Computer Engineering Student & Full-Stack Developer",
-    education: "B.E Computer Engineering (CGPA: 7.99/10.0)",
-    currentlyBuilding: "Urban Hive - Smart Urban Services 🏙️",
+    currentRole: "Full-Stack Developer",
+    education: "B.E Computer Engineering (CGPA: 8.08/10.0)",
     learning: [
         "Advanced React Native Development",
         "AWS Cloud Architecture",
