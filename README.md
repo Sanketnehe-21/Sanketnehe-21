@@ -193,7 +193,7 @@ const sanket = {
 </p>
 
 ### 🏆 GitHub Achievement Trophies
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sanketnehe-21&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=8&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sanketnehe-21&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=8&title=Stars,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" />
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -227,7 +227,7 @@ CSS          ████▓░░░░░░░░░░░░░░░░   1
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanketnehe&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanketnehe-21&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="400"/>
 </td>
 <td align="center">
 
