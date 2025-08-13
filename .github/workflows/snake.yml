@@ -14,6 +14,10 @@ on:
   push:
     branches: [ main ]
 
+# Grant write permissions to the workflow
+permissions:
+  contents: write
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -26,7 +30,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      # Generates the snake  
+      # Generates the snake
       - uses: Platane/snk@v3
         id: snake-gif
         with:
