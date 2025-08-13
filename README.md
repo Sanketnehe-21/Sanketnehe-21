@@ -32,25 +32,40 @@
 const sanket = {
     pronouns: "He/Him",
     location: "Mumbai, Maharashtra 🇮🇳",
-    currentRole: "Full-Stack Developer & Mobile App Specialist",
-    currentlyBuilding: "Next-Gen Mobile Solutions 📱",
+    currentRole: "Computer Engineering Student & Full-Stack Developer",
+    education: "B.E Computer Engineering (CGPA: 7.99/10.0)",
+    currentlyBuilding: "Urban Hive - Smart Urban Services 🏙️",
     learning: [
-        "Advanced React Native Architecture",
-        "Microservices with Node.js",
-        "AI/ML Integration in Mobile Apps",
-        "DevOps & CI/CD Pipelines",
-        "Web3 & Blockchain Development"
+        "Advanced React Native Development",
+        "AWS Cloud Architecture",
+        "Machine Learning Foundations",
+        "Data Analytics",
+        "Cybersecurity"
     ],
     expertise: [
         "React Native Development",
-        "Cross-Platform Mobile Apps",
-        "Cloud Architecture",
-        "Full-Stack Development",
-        "Game Development"
+        "Cross-Platform Mobile Apps", 
+        "Firebase Integration",
+        "Google Maps API",
+        "Full-Stack Development"
     ],
-    hackathonWins: ["EXALT 2023-24 🏆"],
+    achievements: ["EXALT 2023-24 Winner 🏆"],
+    certifications: [
+        "Google Ads Certification",
+        "Azure DevOps Boards",
+        "WordPress Development", 
+        "CISCO IT Essentials",
+        "C & C++ (SITH Foundation)"
+    ],
+    internships: [
+        "AWS Academy Cloud Foundations",
+        "AWS Academy Machine Learning Foundations", 
+        "Cybersecurity Virtual Internship",
+        "AWS Data Analytics Virtual Internship"
+    ],
+    languages: ["English", "Hindi", "Marathi"],
+    openSource: "rn-whiteboard-kit npm package",
     motto: "Code with passion, build with purpose! 🚀",
-    availableFor: "Freelance Projects & Collaborations",
     reachMe: "sanketnehe21@gmail.com"
 };
 ```
@@ -61,14 +76,14 @@ const sanket = {
 
 <img align="right" alt="Coding" width="450" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d">
 
-- 🔭 **Currently Working On:** Revolutionary mobile applications that solve real-world problems
-- 📦 **Open Source:** Contributing to React Native ecosystem with custom packages
-- 🎮 **Game Development:** Creating immersive gaming experiences with Unity
-- ⚡ **Innovation:** Building smart solutions with cutting-edge technologies
+- 🔭 **Currently Working On:** Urban Hive - Smart Urban Services Platform
+- 📦 **Open Source:** Published rn-whiteboard-kit npm package for React Native
+- ⚡ **Recent Project:** EV Charging Station Finder using Google Maps API
+- 🎓 **Education:** B.E Computer Engineering (CGPA: 7.99/10.0) at APSIT, Thane
 - 🏆 **Achievement Unlocked:** EXALT 2023-24 Winner at APSIT College
-- 🌱 **Always Learning:** Staying ahead with latest tech trends and frameworks
+- 🌱 **Currently Learning:** AWS Cloud Foundations & Machine Learning
 - 👨‍💻 **Portfolio:** Explore all my work at [GitHub](https://github.com/Sanketnehe-21)
-- 💼 **Open for Work:** Available for exciting projects and collaborations
+- 💼 **Internships:** Completed 4 virtual internships in AWS, ML & Cybersecurity
 
 ---
 
@@ -76,83 +91,52 @@ const sanket = {
 
 <div align="center">
 
-### 🎨 Frontend Development
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,java,c" />
   <br/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,c,cpp" />
-  <br/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ### 🗄️ Database Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   <br/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ☁️ Cloud & DevOps
+### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,git,figma,firebase" />
   <br/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
 </p>
 
-### 🛠️ Development Tools & IDEs
+### ☁️ Cloud Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,unity,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
   <br/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### 🎮 Game Development
+### 📱 Framework & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
-  <br/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-</p>
-
-### 🎨 Design & Multimedia
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,ae" />
-  <br/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sketch-FFB800?style=for-the-badge&logo=sketch&logoColor=black" />
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift" />
-  <br/>
-  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-</p>
-
-### 🌐 Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,angular,svelte,webpack,vite" />
-  <br/>
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 </div>
@@ -168,12 +152,12 @@ const sanket = {
 
 ### 🎯 Major Achievements
 - 🥇 **EXALT 2023-24 Winner**
-- 🚀 **NPM Package Publisher**
+- 🚀 **rn-whiteboard-kit NPM Package Publisher**
 - 💻 **Multiple Hackathon Participant**
-- 🎮 **Indie Game Developer**
-- 🌟 **Open Source Contributor**
 - 📱 **React Native Specialist**
-- ☁️ **Cloud Architecture Expert**
+- 🌟 **Open Source Contributor**
+- 📊 **Data Analytics Intern**
+- ☁️ **AWS Cloud Foundations Certified**
 
 </td>
 <td align="center" width="50%">
@@ -181,11 +165,12 @@ const sanket = {
 ### 🏅 Professional Certifications
 - ✅ **Google Ads Campaign Certification**
 - ✅ **Microsoft Azure DevOps Boards**
-- ✅ **AWS Cloud Practitioner**
 - ✅ **WordPress Development Expert**
 - ✅ **CISCO IT Essentials**
 - ✅ **C & C++ (SITH Foundation)**
-- ✅ **React Native Development**
+- ✅ **AWS Cloud Foundations (AICTE)**
+- ✅ **Machine Learning Foundations (AICTE)**
+- ✅ **Cybersecurity & Data Analytics**
 
 </td>
 </tr>
