@@ -78,9 +78,9 @@ const sanket = {
 - 🔭 **Currently Working On:** Urban Hive - Smart Urban Services Platform
 - 📦 **Open Source:** Published rn-whiteboard-kit npm package for React Native
 - ⚡ **Recent Project:** EV Charging Station Finder using Google Maps API
-- 🎓 **Education:** B.E Computer Engineering (CGPA: 7.99/10.0) at APSIT, Thane
+- 🎓 **Education:** B.E Computer Engineering (CGPA: 8.08/10.0) at APSIT, Thane
 - 🏆 **Achievement Unlocked:** EXALT 2023-24 Winner at APSIT College
-- 🌱 **Currently Learning:** AWS Cloud Foundations & Machine Learning
+- 🌱 **Currently Learning:** React Native Integration and 3js in react native
 - 👨‍💻 **Portfolio:** Explore all my work at [GitHub](https://github.com/Sanketnehe-21)
 - 💼 **Internships:** Completed 4 virtual internships in AWS, ML & Cybersecurity
 
