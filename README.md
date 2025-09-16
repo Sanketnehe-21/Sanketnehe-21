@@ -266,7 +266,6 @@ achievements:
 - 💼 **Freelance Development Work**  
 - 🎓 **Mentoring & Knowledge Sharing**
 - 🤝 **Open Source Contributions**
-- 🎮 **Game Development Partnerships**
 
 </div>
 
