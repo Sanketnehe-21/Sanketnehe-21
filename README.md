@@ -62,7 +62,7 @@ const sanket = {
         "Cybersecurity Virtual Internship",
         "AWS Data Analytics Virtual Internship"
     ],
-    languages: ["English", "Hindi", "Marathi"],
+    languages: ["Marathi","English", "Hindi"],
     openSource: "rn-whiteboard-kit npm package",
     motto: "Code with passion, build with purpose! 🚀",
     reachMe: "sanketnehe21@gmail.com"
